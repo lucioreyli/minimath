@@ -1,4 +1,7 @@
-<img src="./logo.png" alt="Logo MiniMath" >
+<p align="center">
+<img src="./logo.png" alt="Logo MiniMath" height="400px">
+</p>
+
 # MiniMath
 
 ## 🛠️ Níveis
