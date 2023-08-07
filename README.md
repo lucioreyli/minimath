@@ -22,7 +22,7 @@
 1. Clone this repository.
 2. Run open project with `Unity 2D`.
 
-## 👨🏻‍💻utor
+## 👨🏻‍💻Autor
 
 - [Lucio Andrade](https://linkedin.com/in/lucioandradejr).
 
